@@ -3,5 +3,5 @@
 *.vdi
 *.vmdk
 *.log
-.shared/
-.testfile.txt
+shared/
+testfile.txt
